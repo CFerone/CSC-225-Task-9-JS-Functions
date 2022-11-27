@@ -1,0 +1,35 @@
+/* 
+    Use the website "https://jigsaw.w3.org/css-validator/#validate_by_input", to check for errors in the code
+    ALWAYS CHECK FOR ERRORS USING THE ONLINE VALIDATOR !!!
+*/
+
+/*
+    Courtney Ferone - Task #9 (Using JS)
+
+    Design Direction:
+    
+*/
+
+
+/*
+
+    The below line must be added to the html file to reference this stylesheet: (must be located in the <head>   </head> tag)
+        <link href="css/style.css" rel="stylesheet">
+        link href="css/style.css": Tell the html file to reference the directory (folder) named css and use the style.css file
+        rel="stylesheet": Tell the html file the .css file is a stylesheet
+*/
+
+/*
+    My custom "Questrial" font style from Google Fonts
+    Setting font size to 20px
+    Setting background to Black
+    Setting font color to white
+    Giving our left side a margin of 20px
+*/
+body {
+    font-family: 'Questrial', sans-serif;
+    font-size: 22px;
+    background-color: black;
+    color: pink;
+    margin-left: 20px;
+}
